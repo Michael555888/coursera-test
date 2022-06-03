@@ -1,0 +1,22 @@
+#collapsable-nav{
+}
+#collapsable-nav a{
+    text-align: center;
+    border: 1px solid #000;
+    background-color: #dfd6c1;
+    line-height: .5;
+}
+
+#nav-list{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#main-content h2{
+    margin-top: 5px;
+}
+
+#main-content-text{
+    height: 1000px;
+    background-color: #87c2e9;
+}
